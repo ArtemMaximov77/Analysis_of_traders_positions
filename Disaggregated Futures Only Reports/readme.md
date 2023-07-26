@@ -6,4 +6,4 @@
 
 `WTI_Spot_Price.csv`, `Europe_Brent_Spot_Price.csv` - данные по ценам на нефть.  
 
-`data_wti.csv`, `data_brent.csv`, `data_brent_moex` - конечные файлы с позициями трейдоров и ценами.
+`data_wti.csv`, `data_brent.csv`, `data_brent_moex` - конечные файлы с позициями трейдеров и ценами.
